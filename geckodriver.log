@@ -1,0 +1,24 @@
+1663929478097	geckodriver	INFO	Listening on 127.0.0.1:51006
+1663929481168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAIBHA~1\\AppData\\Local\\Temp\\rust_mozprofileisz8dD"
+1663929564821	geckodriver	INFO	Listening on 127.0.0.1:51092
+1663929567837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAIBHA~1\\AppData\\Local\\Temp\\rust_mozprofile1DFKii"
+1663929569233	Marionette	INFO	Marionette enabled
+1663929569244	Marionette	INFO	Listening on port 51102
+WebDriver BiDi listening on ws://localhost:51093
+Read port: 51102
+1663929569548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SAIBHA~1\\AppData\\Local\\Temp\\rust_mozprofile1DFKii\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51093/devtools/browser/5343924f-7a8b-4b85-b7fd-153294220737
+1663929573765	Marionette	INFO	Stopped listening on port 51102
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1663929612616	geckodriver	INFO	Listening on 127.0.0.1:51144
+1663929615831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAIBHA~1\\AppData\\Local\\Temp\\rust_mozprofileSyB0G2"
+1663929616720	Marionette	INFO	Marionette enabled
+1663929616727	Marionette	INFO	Listening on port 51156
+WebDriver BiDi listening on ws://localhost:51145
+Read port: 51156
+1663929617019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SAIBHA~1\\AppData\\Local\\Temp\\rust_mozprofileSyB0G2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51145/devtools/browser/d3b20d98-77e8-42be-9e56-04478e74e0b3
+1663929625432	Marionette	INFO	Stopped listening on port 51156
